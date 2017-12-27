@@ -1,12 +1,12 @@
 Gem::Specification.new do |s|
-  s.name          = 'logstash-input-azureeventhub'
+  s.name          = 'logstash-input-event-hub'
   s.version       = '0.9.8'
   s.platform      = "java"
   s.licenses      = ['Apache License (2.0)']
   s.summary       = "This plugin collects data from Azure Event Hubs."
   s.description   = "This gem is a Logstash plugin. It reads data from Azure Event Hubs."
-  s.authors       = ["Microsoft Corporation"]
-  s.email         = 'azdiag@microsoft.com'
+  s.authors       = ["Shailesh Srivastava"]
+  s.email         = 'shailesh17mar@gmail.com'
   s.homepage      = "https://github.com/Azure/azure-diagnostics-tools"
   s.require_paths = ["lib"]
 
