@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.description   = "This gem is a Logstash plugin. It reads data from Azure Event Hubs."
   s.authors       = ["Shailesh Srivastava"]
   s.email         = 'shailesh17mar@gmail.com'
-  s.homepage      = "https://github.com/Azure/azure-diagnostics-tools"
+  s.homepage      = "https://github.com/shailesh17mar/azure-diagnostics-tools"
   s.require_paths = ["lib"]
 
   # Files
